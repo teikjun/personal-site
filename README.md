@@ -1,6 +1,6 @@
 # personal-site
 
-A personal site built using gatsby.
+My personal site built using gatsby.
 
 To get started:
 ```
